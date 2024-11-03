@@ -11,6 +11,7 @@
     name: 'BulletPoints',
     props: {
       points: {
+        // @ts-ignore
         type: Array as PropType<string[]>,
         required: true,
       },

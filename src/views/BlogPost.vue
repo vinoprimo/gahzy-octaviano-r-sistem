@@ -55,7 +55,7 @@
   import BulletPoints from '@/components/BlogPost/BulletPoints.vue';
   import RelatedArticles from '@/components/BlogPost/RelatedArticles.vue';
   import JoinTeamSection from '@/components/BlogPost/JoinTeamSection.vue';
-  
+
   export default defineComponent({
     name: 'BlogPost',
     components: {

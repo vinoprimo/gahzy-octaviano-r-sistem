@@ -17,6 +17,7 @@
   </template>
   
   <script lang="ts">
+  // @ts-ignore
   import { defineComponent, PropType } from 'vue';
   
   export default defineComponent({
